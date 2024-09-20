@@ -25,6 +25,7 @@
 using namespace flashinfer;
 
  
+
 template <typename T>
 void bench_merge_states(nvbench::state& state) {
   const auto num_index_sets = state.get_int64("num_index_sets");
@@ -196,7 +197,7 @@ NVBENCH_BENCH(bench_flashinfer_merge_state_##T##_)                \
 
 #define BENCH_FLASHINFER_MERGE_STATE_InPlace_KERNELS(T)                            \
 auto bench_flashinfer_merge_state_InPlace_##T##_ = bench_merge_state_InPlace<T>; \
-NVBENCH_BENCH(bench_flashinfer_merge_state_##T##_)                \
+NVBENCH_BENCH(bench_flashinfer_merge_state_InPlace_##T##_)                \
     .set_name("flashinfer_merge_state_InPlace_" STR(T))                   \
     .add_int64_axis("seq_len", {1, 2, 4, 8, 16, 32, 64, 128, 256}) \
     .add_int64_axis("num_heads", {32})                             \
