@@ -407,6 +407,20 @@ if (FLASHINFER_CASCADE)
   add_dependencies(test_cascade dispatch_inc)
   target_link_libraries(test_cascade PRIVATE gtest gtest_main decode_kernels prefill_kernels)
   target_compile_options(test_cascade PRIVATE -Wno-switch-bool)
+
+  ## added test 
+  message(STATUS "Compile all merge state methods kernel benchmarks.")
+  file(GLOB_RECURSE BENCH_mergeState_SRCS ${PROJECT_SOURCE_DIR}/src/bench_merge_state_methods.cu)
+  add_executable(bench_all_mergeState_methods ${BENCH_mergeState_SRCS})
+  target_include_directories(bench_all_mergeState_methods PRIVATE ${FLASHINFER_INCLUDE_DIR})
+  target_include_directories(bench_all_mergeState_methods PRIVATE ${PROJECT_SOURCE_DIR}/3rdparty/nvbench)
+  add_dependencies(bench_all_mergeState_methods dispatch_inc)
+  target_link_libraries(bench_all_mergeState_methods PRIVATE nvbench::main decode_kernels prefill_kernels)
+  target_compile_options(bench_all_mergeState_methods PRIVATE -Wno-switch-bool)
+
+
+
+
 endif(FLASHINFER_CASCADE)
 
 if (FLASHINFER_SAMPLING)
