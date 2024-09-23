@@ -420,6 +420,14 @@ if (FLASHINFER_CASCADE)
 
 
 
+  message(STATUS "Compile all merge state methods with zerocopy enabled kernel benchmarks.")
+  file(GLOB_RECURSE BENCH_mergeState_ZeroCopy_SRCS ${PROJECT_SOURCE_DIR}/src/bench_merge_state_zeroCopy.cu)
+  add_executable(bench_all_mergeState_ZeroCopy_methods ${BENCH_mergeState_ZeroCopy_SRCS})
+  target_include_directories(bench_all_mergeState_ZeroCopy_methods PRIVATE ${FLASHINFER_INCLUDE_DIR})
+  target_include_directories(bench_all_mergeState_ZeroCopy_methods PRIVATE ${PROJECT_SOURCE_DIR}/3rdparty/nvbench)
+  add_dependencies(bench_all_mergeState_ZeroCopy_methods dispatch_inc)
+  target_link_libraries(bench_all_mergeState_ZeroCopy_methods PRIVATE nvbench::main decode_kernels prefill_kernels)
+  target_compile_options(bench_all_mergeState_ZeroCopy_methods PRIVATE -Wno-switch-bool)
 
 endif(FLASHINFER_CASCADE)
 
