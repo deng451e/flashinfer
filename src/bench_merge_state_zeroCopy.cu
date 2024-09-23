@@ -56,7 +56,7 @@
  
  template <typename T>
  void bench_merge_state_zeroCopy(nvbench::state& state) {
-    
+   cudaSetDevice(0);
    const auto seq_len = state.get_int64("seq_len");
    const auto num_heads = state.get_int64("num_heads");
    const auto head_dim = state.get_int64("head_dim");
@@ -124,7 +124,7 @@
   */
  template <typename T>
  void bench_merge_state_InPlace_zeroCopy(nvbench::state& state) {
-    
+    cudaSetDevice(0);
     const auto seq_len = state.get_int64("seq_len");
     const auto num_heads = state.get_int64("num_heads");
     const auto head_dim = state.get_int64("head_dim");
