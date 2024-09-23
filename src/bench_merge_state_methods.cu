@@ -190,7 +190,7 @@ NVBENCH_BENCH(bench_flashinfer_merge_state_##T##_)                \
     .set_name("flashinfer_merge_state_" STR(T))                   \
     .add_int64_axis("seq_len", {1, 2, 4, 8, 16, 32, 64, 128, 256}) \
     .add_int64_axis("num_heads", {32,56})                             \
-    .add_int64_axis("head_dim", {64,80,128})
+    .add_int64_axis("head_dim", {64,128})
 
 
 
@@ -201,7 +201,7 @@ NVBENCH_BENCH(bench_flashinfer_merge_state_InPlace_##T##_)                \
     .set_name("flashinfer_merge_state_InPlace_" STR(T))                   \
     .add_int64_axis("seq_len", {1, 2, 4, 8, 16, 32, 64, 128, 256}) \
     .add_int64_axis("num_heads", {32,56})                             \
-    .add_int64_axis("head_dim", {64,80,128})
+    .add_int64_axis("head_dim", {64,128})
 
 
   

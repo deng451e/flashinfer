@@ -97,6 +97,7 @@
         seq_len, num_heads, head_dim);
      timer.stop();
    });
+   CHECK(cudaDeviceSynchronize());
    CHECK(cudaHostUnregister(V_a_host.data() ));
    CHECK(cudaHostUnregister(S_a_host.data() ));
    CHECK(cudaHostUnregister(V_b_host.data() ));
@@ -150,6 +151,8 @@
     //  state.add_global_memory_reads<T>(V_a_host.size(), "Read");
     state.add_global_memory_writes<T>(V_other_device.size(), "Write");
     state.add_global_memory_writes<T>(S_other_device.size(), "Write");
+
+    // state.exec(nvbench::exec_tag::sync, <KernelLauncher>); // Safe
     state.exec(nvbench::exec_tag::timer, [&](nvbench::launch& launch, auto& timer) {
       timer.start();
       cudaError_t status = MergeStateInPlace(
@@ -158,6 +161,7 @@
           seq_len, num_heads, head_dim);
       timer.stop();
    });
+   CHECK(cudaDeviceSynchronize());
    CHECK(cudaHostUnregister(V_a_host.data() ));
    CHECK(cudaHostUnregister(S_a_host.data() ));
  }
@@ -174,7 +178,7 @@
      .set_name("flashinfer_merge_state_zeroCopy_" STR(T))                   \
      .add_int64_axis("seq_len", {1, 2, 4, 8, 16, 32, 64, 128, 256}) \
      .add_int64_axis("num_heads", {32,56})                             \
-     .add_int64_axis("head_dim", {64,80,128})
+     .add_int64_axis("head_dim", {64,128})
  
  
  
@@ -185,7 +189,7 @@
      .set_name("flashinfer_merge_state_InPlace_zeroCopy_" STR(T))                   \
      .add_int64_axis("seq_len", {1, 2, 4, 8, 16, 32, 64, 128, 256}) \
      .add_int64_axis("num_heads", {32,56})                             \
-     .add_int64_axis("head_dim", {64,80,128})
+     .add_int64_axis("head_dim", {64,128})
 
 
 BENCH_FLASHINFER_MERGE_STATE_KERNELS(half); 
