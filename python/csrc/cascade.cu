@@ -63,15 +63,15 @@ std::vector<torch::Tensor> merge_state(torch::Tensor v_a, torch::Tensor s_a, tor
 }
 
 void merge_state_in_place(torch::Tensor v, torch::Tensor s, torch::Tensor v_other,
-                          torch::Tensor s_other, std::optional<torch::Tensor> mask) {
-  CHECK_INPUT(v);
-  CHECK_INPUT(s);
+                          torch::Tensor s_other, std::optional<torch::Tensor> mask ) {
+  // CHECK_INPUT(v);
+  // CHECK_INPUT(s);
+  // modified to enable zero copy 
   CHECK_INPUT(v_other);
   CHECK_INPUT(s_other);
-  auto device = v.device();
-  CHECK_EQ(s.device(), device);
-  CHECK_EQ(v_other.device(), device);
-  CHECK_EQ(s_other.device(), device);
+  CHECK_EQ(v.device(), s.device());
+  auto device = v_other.device();
+  CHECK_EQ(device, s_other.device());
   CHECK_DIM(3, v);
   CHECK_DIM(2, s);
   CHECK_DIM(3, v_other);
@@ -93,7 +93,7 @@ void merge_state_in_place(torch::Tensor v, torch::Tensor s, torch::Tensor v_othe
   unsigned int num_heads = v.size(1);
   unsigned int head_dim = v.size(2);
   cudaStream_t torch_current_stream = c10::cuda::getCurrentCUDAStream(device.index());
-
+  
   bool success = DISPATCH_PYTORCH_DTYPE_TO_CTYPE_FP16(v.scalar_type(), c_type, [&] {
     cudaError_t status = MergeStateInPlace(
         static_cast<c_type*>(v.data_ptr()), static_cast<float*>(s.data_ptr()),

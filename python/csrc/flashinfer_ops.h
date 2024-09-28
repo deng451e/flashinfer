@@ -15,7 +15,7 @@
  */
 #pragma once
 #include <torch/extension.h>
-
+#include <cuda_runtime.h>  
 #include <flashinfer/group_gemm/handler.cuh>
 #include <flashinfer/layout.cuh>
 #include <memory>
@@ -31,7 +31,7 @@ std::vector<torch::Tensor> merge_state(torch::Tensor v_a, torch::Tensor s_a, tor
                                        torch::Tensor s_b);
 
 void merge_state_in_place(torch::Tensor v, torch::Tensor s, torch::Tensor v_other,
-                          torch::Tensor s_other, std::optional<torch::Tensor> mask = std::nullopt);
+                          torch::Tensor s_other, std::optional<torch::Tensor> mask = std::nullopt   );
 
 std::vector<torch::Tensor> merge_states(torch::Tensor v, torch::Tensor s);
 
