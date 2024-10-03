@@ -55,8 +55,8 @@ def main(args,log):
     q_cpu = torch.empty(args.q_len, num_heads,head_dim, device='cpu').pin_memory().half()
     
     
-    cpu_mha = flashAttn(head_dim,num_heads,"cpu") 
-    gpu_mha = flashAttn(head_dim,num_heads,"gpu") 
+    cpu_mha = flashAttnSingle(head_dim,num_heads,"cpu") 
+    gpu_mha = flashAttnSingle(head_dim,num_heads,"gpu") 
     cpu_stream =  torch.cuda.Stream()
     gpu_stream =  torch.cuda.Stream()
     
@@ -110,8 +110,8 @@ def main(args,log):
                 k_cache_gpu.copy_(hold_k, non_blocking=True)
                 v_cache_gpu.copy_(hold_v , non_blocking=True)
                
-                #v_out,s_out = gpu_mha(q,k_cache_gpu,v_cache_gpu)
-                v_out,s_out = flash_decode(q ,k_cache_gpu ,v_cache_gpu )
+                v_out,s_out = gpu_mha(q,k_cache_gpu,v_cache_gpu)
+                #v_out,s_out = flash_decode(q ,k_cache_gpu ,v_cache_gpu )
         if ratio:
             with torch.cuda.stream(cpu_stream):
                  
