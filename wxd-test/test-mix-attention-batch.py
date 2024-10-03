@@ -130,5 +130,5 @@ if __name__ == "__main__":
     parser.add_argument("--ratio", type=float, default=0.0)
     parser.add_argument("--repeat", type=int, default=10)
     args = parser.parse_args()
-    check_workspace(args.ratio)
+    # check_works pace(args.ratio)
     main(args,"")
