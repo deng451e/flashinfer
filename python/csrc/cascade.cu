@@ -22,13 +22,13 @@ using namespace flashinfer;
 
 std::vector<torch::Tensor> merge_state(torch::Tensor v_a, torch::Tensor s_a, torch::Tensor v_b,
                                        torch::Tensor s_b) {
-  CHECK_INPUT(v_a);
-  CHECK_INPUT(s_a);
+  // CHECK_INPUT(v_a);
+  // CHECK_INPUT(s_a);
+  // modified to enable zero copy 
   CHECK_INPUT(v_b);
   CHECK_INPUT(s_b);
-  auto device = v_a.device();
-  CHECK_EQ(s_a.device(), device);
-  CHECK_EQ(v_b.device(), device);
+  auto device = v_b.device();
+  CHECK_EQ(s_a.device(), v_a.device());
   CHECK_EQ(s_b.device(), device);
   CHECK_DIM(3, v_a);
   CHECK_DIM(2, s_a);
@@ -44,8 +44,8 @@ std::vector<torch::Tensor> merge_state(torch::Tensor v_a, torch::Tensor s_a, tor
   unsigned int num_heads = v_a.size(1);
   unsigned int head_dim = v_a.size(2);
   cudaStream_t torch_current_stream = c10::cuda::getCurrentCUDAStream(device.index());
-  auto v_merged = torch::empty_like(v_a, v_a.options());
-  auto s_merged = torch::empty({seq_len, num_heads}, s_a.options());
+  auto v_merged = torch::empty_like(v_b, v_b.options());
+  auto s_merged = torch::empty({seq_len, num_heads}, s_b.options());
 
   bool success = DISPATCH_PYTORCH_DTYPE_TO_CTYPE_FP16(v_a.scalar_type(), c_type, [&] {
     cudaError_t status = MergeState(
