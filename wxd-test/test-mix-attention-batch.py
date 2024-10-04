@@ -114,7 +114,7 @@ def main(args,log):
         epoch_times.append(time.time()-st)
         accuracys.append(check_eq(v_out,v_reference))
     
-    
+    log += f"batch size:{args.batch_size}, "
     log += f"latency:{(np.mean(epoch_times[-(args.repeat)//2:])):.5} sec, "
     log += f"memory:{(np.mean(mem_usages[-(args.repeat)//2:])):.5} GB, "
     log += f"accuracy:{(np.mean(accuracys)*100):.5}"
