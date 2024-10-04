@@ -1,0 +1,1056 @@
+arch name:opt-1.3b,seq len:1000,q len:1,cpu ratio:0.0,latency:0.0016964 sec, memory:0.031516 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:1,cpu ratio:0.01,latency:0.0023983 sec, memory:0.031438 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:1,cpu ratio:0.1,latency:0.0023651 sec, memory:0.030736 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:1,cpu ratio:0.2,latency:0.0022635 sec, memory:0.029954 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:1,cpu ratio:0.5,latency:0.002182 sec, memory:0.027765 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:1,cpu ratio:1.0,latency:0.0022004 sec, memory:0.015767 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:10,cpu ratio:0.0,latency:0.0016685 sec, memory:0.033338 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:10,cpu ratio:0.01,latency:0.0022265 sec, memory:0.033244 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:10,cpu ratio:0.1,latency:0.0025482 sec, memory:0.032396 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:10,cpu ratio:0.2,latency:0.0027778 sec, memory:0.031454 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:10,cpu ratio:0.5,latency:0.0024305 sec, memory:0.028781 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:10,cpu ratio:1.0,latency:0.0020399 sec, memory:0.015941 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:50,cpu ratio:0.0,latency:0.0018661 sec, memory:0.041437 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:50,cpu ratio:0.01,latency:0.0028989 sec, memory:0.041272 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:50,cpu ratio:0.1,latency:0.0030646 sec, memory:0.03978 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:50,cpu ratio:0.2,latency:0.0040567 sec, memory:0.038123 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:50,cpu ratio:0.5,latency:0.0033355 sec, memory:0.033152 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:50,cpu ratio:1.0,latency:0.0049003 sec, memory:0.016713 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:100,cpu ratio:0.0,latency:0.0019704 sec, memory:0.051559 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:100,cpu ratio:0.01,latency:0.0029165 sec, memory:0.051304 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:100,cpu ratio:0.1,latency:0.0030409 sec, memory:0.049876 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:100,cpu ratio:0.2,latency:0.0032066 sec, memory:0.046457 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:100,cpu ratio:0.5,latency:0.0050484 sec, memory:0.038804 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:1000,q len:100,cpu ratio:1.0,latency:0.0057367 sec, memory:0.017678 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:1,cpu ratio:0.0,latency:0.0085941 sec, memory:0.063664 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:1,cpu ratio:0.01,latency:0.006949 sec, memory:0.063656 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:1,cpu ratio:0.1,latency:0.0069766 sec, memory:0.060005 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:1,cpu ratio:0.2,latency:0.0075185 sec, memory:0.055673 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:1,cpu ratio:0.5,latency:0.0083442 sec, memory:0.043687 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:1,cpu ratio:1.0,latency:0.013362 sec, memory:0.015767 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:10,cpu ratio:0.0,latency:0.0087319 sec, memory:0.072727 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:10,cpu ratio:0.01,latency:0.0090049 sec, memory:0.072639 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:10,cpu ratio:0.1,latency:0.0093066 sec, memory:0.067123 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:10,cpu ratio:0.2,latency:0.0085864 sec, memory:0.062323 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:10,cpu ratio:0.5,latency:0.01047 sec, memory:0.048726 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:10,cpu ratio:1.0,latency:0.012427 sec, memory:0.016745 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:50,cpu ratio:0.0,latency:0.0065499 sec, memory:0.1108 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:50,cpu ratio:0.01,latency:0.0083499 sec, memory:0.1108 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:50,cpu ratio:0.1,latency:0.0083437 sec, memory:0.10104 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:50,cpu ratio:0.2,latency:0.0091557 sec, memory:0.091879 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:50,cpu ratio:0.5,latency:0.011751 sec, memory:0.06675 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:50,cpu ratio:1.0,latency:0.02832 sec, memory:0.016713 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:100,cpu ratio:0.0,latency:0.0065418 sec, memory:0.15452 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:100,cpu ratio:0.01,latency:0.0082469 sec, memory:0.15362 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:100,cpu ratio:0.1,latency:0.0087517 sec, memory:0.14357 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:100,cpu ratio:0.2,latency:0.0095861 sec, memory:0.12882 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:100,cpu ratio:0.5,latency:0.020605 sec, memory:0.092455 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:5000,q len:100,cpu ratio:1.0,latency:0.032596 sec, memory:0.017678 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:1,cpu ratio:0.0,latency:0.020305 sec, memory:0.10362 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:1,cpu ratio:0.01,latency:0.020343 sec, memory:0.10101 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:1,cpu ratio:0.1,latency:0.023075 sec, memory:0.09563 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:1,cpu ratio:0.2,latency:0.017468 sec, memory:0.087638 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:1,cpu ratio:0.5,latency:0.025812 sec, memory:0.063664 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:1,cpu ratio:1.0,latency:0.036428 sec, memory:0.015767 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:10,cpu ratio:0.0,latency:0.020493 sec, memory:0.11993 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:10,cpu ratio:0.01,latency:0.021002 sec, memory:0.11715 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:10,cpu ratio:0.1,latency:0.023341 sec, memory:0.11119 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:10,cpu ratio:0.2,latency:0.019769 sec, memory:0.10073 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:10,cpu ratio:0.5,latency:0.024498 sec, memory:0.071923 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:10,cpu ratio:1.0,latency:0.03839 sec, memory:0.015941 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:50,cpu ratio:0.0,latency:0.020584 sec, memory:0.1924 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:50,cpu ratio:0.01,latency:0.020825 sec, memory:0.1892 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:50,cpu ratio:0.1,latency:0.02632 sec, memory:0.17721 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:50,cpu ratio:0.2,latency:0.018804 sec, memory:0.15889 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:50,cpu ratio:0.5,latency:0.033936 sec, memory:0.1108 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:50,cpu ratio:1.0,latency:0.052207 sec, memory:0.016713 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:100,cpu ratio:0.0,latency:0.018916 sec, memory:0.28581 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:100,cpu ratio:0.01,latency:0.022938 sec, memory:0.27861 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:100,cpu ratio:0.1,latency:0.025297 sec, memory:0.25729 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:100,cpu ratio:0.2,latency:0.027042 sec, memory:0.2316 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:100,cpu ratio:0.5,latency:0.042583 sec, memory:0.15452 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:10000,q len:100,cpu ratio:1.0,latency:0.078936 sec, memory:0.017678 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:1,cpu ratio:0.0,latency:0.039034 sec, memory:0.17987 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:1,cpu ratio:0.01,latency:0.03964 sec, memory:0.17959 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:1,cpu ratio:0.1,latency:0.041241 sec, memory:0.16426 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:1,cpu ratio:0.2,latency:0.0492 sec, memory:0.14864 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:1,cpu ratio:0.5,latency:0.070402 sec, memory:0.10362 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:1,cpu ratio:1.0,latency:0.079859 sec, memory:0.015767 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:10,cpu ratio:0.0,latency:0.03921 sec, memory:0.21227 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:10,cpu ratio:0.01,latency:0.040758 sec, memory:0.21167 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:10,cpu ratio:0.1,latency:0.043132 sec, memory:0.1943 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:10,cpu ratio:0.2,latency:0.046262 sec, memory:0.17506 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:10,cpu ratio:0.5,latency:0.068011 sec, memory:0.11993 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:10,cpu ratio:1.0,latency:0.08228 sec, memory:0.015941 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:50,cpu ratio:0.0,latency:0.039442 sec, memory:0.3591 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:50,cpu ratio:0.01,latency:0.042335 sec, memory:0.35493 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:50,cpu ratio:0.1,latency:0.04638 sec, memory:0.32313 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:50,cpu ratio:0.2,latency:0.052268 sec, memory:0.28999 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:50,cpu ratio:0.5,latency:0.078085 sec, memory:0.1924 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:50,cpu ratio:1.0,latency:0.14032 sec, memory:0.016713 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:100,cpu ratio:0.0,latency:0.039549 sec, memory:0.53626 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:100,cpu ratio:0.01,latency:0.042714 sec, memory:0.53244 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:100,cpu ratio:0.1,latency:0.051339 sec, memory:0.48564 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:100,cpu ratio:0.2,latency:0.064311 sec, memory:0.43523 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:100,cpu ratio:0.5,latency:0.10741 sec, memory:0.28581 GB, accuracy:100.0
+arch name:opt-1.3b,seq len:20000,q len:100,cpu ratio:1.0,latency:0.15017 sec, memory:0.017678 GB, accuracy:100.0
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+Traceback (most recent call last):
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 152, in <module>
+    main(args,"")
+  File "/home/c3/code/flashinfer/wxd-test/test-mix-attention-single.py", line 78, in main
+    vb,sb = flash_decode(q.half(),k_cache.half().cuda(),v_cache.half().cuda())
+  File "/home/c3/code/flashinfer/python/flashinfer/prefill.py", line 392, in single_prefill_with_kv_cache_return_lse
+    return _prefill.single_prefill_with_kv_cache(
+RuntimeError: single_prefill_with_kv_cache(at::Tensor, at::Tensor, at::Tensor, at::Tensor, bool, unsigned int, unsigned int, bool, int32_t, float, float, float, float, bool)::<lambda()>::<lambda()>::<lambda()> failed to dispatch head_dim 80
+arch name:opt-6.7b,seq len:1000,q len:1,cpu ratio:0.0,latency:0.0027077 sec, memory:0.039351 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:1,cpu ratio:0.01,latency:0.0035963 sec, memory:0.039197 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:1,cpu ratio:0.1,latency:0.0034793 sec, memory:0.037808 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:1,cpu ratio:0.2,latency:0.0035657 sec, memory:0.036081 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:1,cpu ratio:0.5,latency:0.0040615 sec, memory:0.03145 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:1,cpu ratio:1.0,latency:0.002787 sec, memory:0.015786 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:10,cpu ratio:0.0,latency:0.0030382 sec, memory:0.041379 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:10,cpu ratio:0.01,latency:0.0034235 sec, memory:0.041209 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:10,cpu ratio:0.1,latency:0.0052522 sec, memory:0.039674 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:10,cpu ratio:0.2,latency:0.0041887 sec, memory:0.037786 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:10,cpu ratio:0.5,latency:0.0043279 sec, memory:0.032672 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:10,cpu ratio:1.0,latency:0.0033355 sec, memory:0.016131 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:50,cpu ratio:0.0,latency:0.0029958 sec, memory:0.050394 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:50,cpu ratio:0.01,latency:0.0037623 sec, memory:0.050152 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:50,cpu ratio:0.1,latency:0.0041352 sec, memory:0.047974 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:50,cpu ratio:0.2,latency:0.0041957 sec, memory:0.045371 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:50,cpu ratio:0.5,latency:0.0051191 sec, memory:0.038111 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:50,cpu ratio:1.0,latency:0.0042783 sec, memory:0.017667 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:100,cpu ratio:0.0,latency:0.0029349 sec, memory:0.061478 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:100,cpu ratio:0.01,latency:0.0040054 sec, memory:0.061146 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:100,cpu ratio:0.1,latency:0.0044449 sec, memory:0.059031 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:100,cpu ratio:0.2,latency:0.0044934 sec, memory:0.05485 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:100,cpu ratio:0.5,latency:0.0071937 sec, memory:0.044908 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:1000,q len:100,cpu ratio:1.0,latency:0.0098636 sec, memory:0.019586 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:1,cpu ratio:0.0,latency:0.019508 sec, memory:0.10275 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:1,cpu ratio:0.01,latency:0.02029 sec, memory:0.10015 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:1,cpu ratio:0.1,latency:0.022734 sec, memory:0.094849 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:1,cpu ratio:0.2,latency:0.015937 sec, memory:0.086946 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:1,cpu ratio:0.5,latency:0.019963 sec, memory:0.063241 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:1,cpu ratio:1.0,latency:0.048325 sec, memory:0.015786 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:10,cpu ratio:0.0,latency:0.019785 sec, memory:0.11202 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:10,cpu ratio:0.01,latency:0.022903 sec, memory:0.10853 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:10,cpu ratio:0.1,latency:0.022995 sec, memory:0.10251 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:10,cpu ratio:0.2,latency:0.021431 sec, memory:0.093801 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:10,cpu ratio:0.5,latency:0.025704 sec, memory:0.068486 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:10,cpu ratio:1.0,latency:0.05431 sec, memory:0.016935 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:50,cpu ratio:0.0,latency:0.020246 sec, memory:0.15101 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:50,cpu ratio:0.01,latency:0.02117 sec, memory:0.14842 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:50,cpu ratio:0.1,latency:0.023394 sec, memory:0.13734 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:50,cpu ratio:0.2,latency:0.025263 sec, memory:0.12427 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:50,cpu ratio:0.5,latency:0.031525 sec, memory:0.087425 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:50,cpu ratio:1.0,latency:0.058318 sec, memory:0.017667 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:100,cpu ratio:0.0,latency:0.019719 sec, memory:0.19587 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:100,cpu ratio:0.01,latency:0.022895 sec, memory:0.19267 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:100,cpu ratio:0.1,latency:0.026954 sec, memory:0.18068 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:100,cpu ratio:0.2,latency:0.022734 sec, memory:0.16236 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:100,cpu ratio:0.5,latency:0.032341 sec, memory:0.11427 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:5000,q len:100,cpu ratio:1.0,latency:0.062873 sec, memory:0.019586 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:1,cpu ratio:0.0,latency:0.038284 sec, memory:0.17811 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:1,cpu ratio:0.01,latency:0.040426 sec, memory:0.17785 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:1,cpu ratio:0.1,latency:0.049471 sec, memory:0.16267 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:1,cpu ratio:0.2,latency:0.048058 sec, memory:0.14723 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:1,cpu ratio:0.5,latency:0.071401 sec, memory:0.10275 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:1,cpu ratio:1.0,latency:0.11887 sec, memory:0.015786 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:10,cpu ratio:0.0,latency:0.039001 sec, memory:0.19462 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:10,cpu ratio:0.01,latency:0.040887 sec, memory:0.1942 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:10,cpu ratio:0.1,latency:0.042111 sec, memory:0.17844 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:10,cpu ratio:0.2,latency:0.051 sec, memory:0.16052 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:10,cpu ratio:0.5,latency:0.082144 sec, memory:0.11121 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:10,cpu ratio:1.0,latency:0.11236 sec, memory:0.016131 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:50,cpu ratio:0.0,latency:0.039214 sec, memory:0.26801 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:50,cpu ratio:0.01,latency:0.040988 sec, memory:0.26687 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:50,cpu ratio:0.1,latency:0.044027 sec, memory:0.24537 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:50,cpu ratio:0.2,latency:0.053381 sec, memory:0.21961 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:50,cpu ratio:0.5,latency:0.083703 sec, memory:0.15101 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:50,cpu ratio:1.0,latency:0.13681 sec, memory:0.017667 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:100,cpu ratio:0.0,latency:0.039981 sec, memory:0.36257 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:100,cpu ratio:0.01,latency:0.043264 sec, memory:0.35841 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:100,cpu ratio:0.1,latency:0.046995 sec, memory:0.3266 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:100,cpu ratio:0.2,latency:0.058749 sec, memory:0.29346 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:100,cpu ratio:0.5,latency:0.091777 sec, memory:0.19587 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:10000,q len:100,cpu ratio:1.0,latency:0.17562 sec, memory:0.019586 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:1,cpu ratio:0.0,latency:0.071429 sec, memory:0.33248 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:1,cpu ratio:0.01,latency:0.076737 sec, memory:0.3294 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:1,cpu ratio:0.1,latency:0.08361 sec, memory:0.30161 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:1,cpu ratio:0.2,latency:0.093604 sec, memory:0.27269 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:1,cpu ratio:0.5,latency:0.16867 sec, memory:0.17811 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:1,cpu ratio:1.0,latency:0.26046 sec, memory:0.015786 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:10,cpu ratio:0.0,latency:0.070468 sec, memory:0.36509 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:10,cpu ratio:0.01,latency:0.07751 sec, memory:0.36168 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:10,cpu ratio:0.1,latency:0.085371 sec, memory:0.33186 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:10,cpu ratio:0.2,latency:0.092004 sec, memory:0.29931 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:10,cpu ratio:0.5,latency:0.17459 sec, memory:0.19462 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:10,cpu ratio:1.0,latency:0.24605 sec, memory:0.016131 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:50,cpu ratio:0.0,latency:0.07224 sec, memory:0.51283 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:50,cpu ratio:0.01,latency:0.074818 sec, memory:0.50516 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:50,cpu ratio:0.1,latency:0.088965 sec, memory:0.4616 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:50,cpu ratio:0.2,latency:0.10857 sec, memory:0.41516 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:50,cpu ratio:0.5,latency:0.19373 sec, memory:0.26801 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:50,cpu ratio:1.0,latency:0.30663 sec, memory:0.017667 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:100,cpu ratio:0.0,latency:0.072422 sec, memory:0.69114 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:100,cpu ratio:0.01,latency:0.077775 sec, memory:0.68451 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:100,cpu ratio:0.1,latency:0.091776 sec, memory:0.62526 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:100,cpu ratio:0.2,latency:0.11936 sec, memory:0.56154 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:100,cpu ratio:0.5,latency:0.21276 sec, memory:0.36257 GB, accuracy:100.0
+arch name:opt-6.7b,seq len:20000,q len:100,cpu ratio:1.0,latency:0.32612 sec, memory:0.019586 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:1,cpu ratio:0.0,latency:0.0035675 sec, memory:0.043498 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:1,cpu ratio:0.01,latency:0.0036609 sec, memory:0.043495 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:1,cpu ratio:0.1,latency:0.0039416 sec, memory:0.041217 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:1,cpu ratio:0.2,latency:0.0041842 sec, memory:0.03918 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:1,cpu ratio:0.5,latency:0.0061226 sec, memory:0.03385 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:1,cpu ratio:1.0,latency:0.0042777 sec, memory:0.015796 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:10,cpu ratio:0.0,latency:0.0036236 sec, memory:0.046033 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:10,cpu ratio:0.01,latency:0.0041524 sec, memory:0.04601 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:10,cpu ratio:0.1,latency:0.0046525 sec, memory:0.043551 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:10,cpu ratio:0.2,latency:0.0043952 sec, memory:0.041313 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:10,cpu ratio:0.5,latency:0.0049927 sec, memory:0.035379 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:10,cpu ratio:1.0,latency:0.0034693 sec, memory:0.016228 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:50,cpu ratio:0.0,latency:0.0036192 sec, memory:0.057779 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:50,cpu ratio:0.01,latency:0.0045005 sec, memory:0.057779 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:50,cpu ratio:0.1,latency:0.0045457 sec, memory:0.054047 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:50,cpu ratio:0.2,latency:0.005907 sec, memory:0.050792 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:50,cpu ratio:0.5,latency:0.0053282 sec, memory:0.042176 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:50,cpu ratio:1.0,latency:0.0047385 sec, memory:0.018205 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:100,cpu ratio:0.0,latency:0.0040632 sec, memory:0.071385 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:100,cpu ratio:0.01,latency:0.004695 sec, memory:0.071162 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:100,cpu ratio:0.1,latency:0.0057703 sec, memory:0.066786 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:100,cpu ratio:0.2,latency:0.0055071 sec, memory:0.062643 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:100,cpu ratio:0.5,latency:0.0061478 sec, memory:0.051094 GB, accuracy:100.0
+arch name:opt-13b,seq len:1000,q len:100,cpu ratio:1.0,latency:0.0090874 sec, memory:0.020546 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:1,cpu ratio:0.0,latency:0.024903 sec, memory:0.12023 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:1,cpu ratio:0.01,latency:0.030155 sec, memory:0.11926 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:1,cpu ratio:0.1,latency:0.026153 sec, memory:0.11069 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:1,cpu ratio:0.2,latency:0.025515 sec, memory:0.10276 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:1,cpu ratio:0.5,latency:0.022004 sec, memory:0.071985 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:1,cpu ratio:1.0,latency:0.029323 sec, memory:0.015796 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:10,cpu ratio:0.0,latency:0.02475 sec, memory:0.13129 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:10,cpu ratio:0.01,latency:0.026663 sec, memory:0.13033 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:10,cpu ratio:0.1,latency:0.025744 sec, memory:0.12026 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:10,cpu ratio:0.2,latency:0.027312 sec, memory:0.11133 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:10,cpu ratio:0.5,latency:0.024687 sec, memory:0.077597 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:10,cpu ratio:1.0,latency:0.034685 sec, memory:0.016286 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:50,cpu ratio:0.0,latency:0.023872 sec, memory:0.18055 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:50,cpu ratio:0.01,latency:0.026676 sec, memory:0.17633 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:50,cpu ratio:0.1,latency:0.029137 sec, memory:0.16526 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:50,cpu ratio:0.2,latency:0.028116 sec, memory:0.15159 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:50,cpu ratio:0.5,latency:0.031934 sec, memory:0.10312 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:50,cpu ratio:1.0,latency:0.044622 sec, memory:0.018147 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:100,cpu ratio:0.0,latency:0.025912 sec, memory:0.23663 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:100,cpu ratio:0.01,latency:0.027526 sec, memory:0.23524 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:100,cpu ratio:0.1,latency:0.030102 sec, memory:0.21602 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:100,cpu ratio:0.2,latency:0.031134 sec, memory:0.19703 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:100,cpu ratio:0.5,latency:0.031983 sec, memory:0.13578 GB, accuracy:100.0
+arch name:opt-13b,seq len:5000,q len:100,cpu ratio:1.0,latency:0.057061 sec, memory:0.020546 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:1,cpu ratio:0.0,latency:0.045977 sec, memory:0.21738 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:1,cpu ratio:0.01,latency:0.048308 sec, memory:0.21478 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:1,cpu ratio:0.1,latency:0.048187 sec, memory:0.19763 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:1,cpu ratio:0.2,latency:0.050982 sec, memory:0.17812 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:1,cpu ratio:0.5,latency:0.054781 sec, memory:0.12023 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:1,cpu ratio:1.0,latency:0.052173 sec, memory:0.015796 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:10,cpu ratio:0.0,latency:0.046906 sec, memory:0.23802 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:10,cpu ratio:0.01,latency:0.048523 sec, memory:0.23522 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:10,cpu ratio:0.1,latency:0.048709 sec, memory:0.21626 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:10,cpu ratio:0.2,latency:0.051995 sec, memory:0.19474 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:10,cpu ratio:0.5,latency:0.061117 sec, memory:0.13123 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:10,cpu ratio:1.0,latency:0.05471 sec, memory:0.016228 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:50,cpu ratio:0.0,latency:0.047255 sec, memory:0.32976 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:50,cpu ratio:0.01,latency:0.055102 sec, memory:0.32675 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:50,cpu ratio:0.1,latency:0.051661 sec, memory:0.29905 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:50,cpu ratio:0.2,latency:0.059112 sec, memory:0.26859 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:50,cpu ratio:0.5,latency:0.07047 sec, memory:0.18055 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:50,cpu ratio:1.0,latency:0.083535 sec, memory:0.018147 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:100,cpu ratio:0.0,latency:0.048447 sec, memory:0.44443 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:100,cpu ratio:0.01,latency:0.050662 sec, memory:0.44099 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:100,cpu ratio:0.1,latency:0.053328 sec, memory:0.40254 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:100,cpu ratio:0.2,latency:0.066945 sec, memory:0.36373 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:100,cpu ratio:0.5,latency:0.087724 sec, memory:0.23663 GB, accuracy:100.0
+arch name:opt-13b,seq len:10000,q len:100,cpu ratio:1.0,latency:0.11347 sec, memory:0.020546 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:1,cpu ratio:0.0,latency:0.089115 sec, memory:0.41103 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:1,cpu ratio:0.01,latency:0.091602 sec, memory:0.40707 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:1,cpu ratio:0.1,latency:0.096936 sec, memory:0.37152 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:1,cpu ratio:0.2,latency:0.10155 sec, memory:0.33249 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:1,cpu ratio:0.5,latency:0.097853 sec, memory:0.21738 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:1,cpu ratio:1.0,latency:0.11121 sec, memory:0.015796 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:10,cpu ratio:0.0,latency:0.090051 sec, memory:0.45395 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:10,cpu ratio:0.01,latency:0.095461 sec, memory:0.45005 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:10,cpu ratio:0.1,latency:0.095694 sec, memory:0.40903 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:10,cpu ratio:0.2,latency:0.10367 sec, memory:0.3652 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:10,cpu ratio:0.5,latency:0.10662 sec, memory:0.23802 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:10,cpu ratio:1.0,latency:0.11709 sec, memory:0.016228 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:50,cpu ratio:0.0,latency:0.092171 sec, memory:0.63292 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:50,cpu ratio:0.01,latency:0.093283 sec, memory:0.62815 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:50,cpu ratio:0.1,latency:0.10359 sec, memory:0.57151 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:50,cpu ratio:0.2,latency:0.11306 sec, memory:0.51341 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:50,cpu ratio:0.5,latency:0.13189 sec, memory:0.32976 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:50,cpu ratio:1.0,latency:0.16578 sec, memory:0.018147 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:100,cpu ratio:0.0,latency:0.090233 sec, memory:0.85935 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:100,cpu ratio:0.01,latency:0.094811 sec, memory:0.85372 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:100,cpu ratio:0.1,latency:0.10789 sec, memory:0.77755 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:100,cpu ratio:0.2,latency:0.12538 sec, memory:0.69231 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:100,cpu ratio:0.5,latency:0.14896 sec, memory:0.44443 GB, accuracy:100.0
+arch name:opt-13b,seq len:20000,q len:100,cpu ratio:1.0,latency:0.21653 sec, memory:0.020546 GB, accuracy:100.0
