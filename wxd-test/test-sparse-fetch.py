@@ -36,7 +36,7 @@ def main(args,log):
                         _ = torch.index_select(cache_, dim=0, index=selected_indices_)  # Using index_select
                         # _ = cache_[selected_indices_]
                         times.append(time.time()-st)
-                    log += f"device:{device}, seq_len:{seq_len}, dim:{dim}, ratio:{ratio}, time:{np.mean(times[-10:])} sec \n"
+                    log += f"device:{device}, seq_len:{seq_len}, dim:{dim}, ratio:{ratio}, time:{np.mean(times[-10:])} \n"
 
     print(log)
 
