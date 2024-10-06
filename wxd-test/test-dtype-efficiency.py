@@ -33,11 +33,12 @@ def main(args,log):
             
             
             
-            if device=='gpu':
+            if device=='cuda':
                 st = time.time()
                 x_ = x.to(device)
                 y_ = y.to(device)
                 transfer_times.appnd(time.time()-st)
+                print(transfer_times)
             else:
                 x_ = x.to(device)
                 y_ = y.to(device)
