@@ -12,7 +12,7 @@ def main(args,log):
     # warmup
     log += "==================================\n"
     log += f"device:{device}, dtype:{type_}\n"
-        
+    print(log)
     for power in range(1,16):
         dim = 2**power
         x = torch.randn(dim,dim,dtype=type_) 
@@ -20,9 +20,9 @@ def main(args,log):
         if device=='gpu':
             x = x.to(device)
             y = y.to(device)
-        for _ in range(3):
-            _ = x@y
-         
+
+        _ = x@y
+        print(dim)  
     for power in range(1,16):
         dim = 2**power  
         compute_times = []
@@ -45,7 +45,7 @@ def main(args,log):
             _ = x_@y_
             compute_times.append(time.time()-st)
         if device=='cpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec \n"
-        if device=='cudas': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time{np.mean(transfer_times)} sec \n"
+        if device=='cuda': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time{np.mean(transfer_times)} sec \n"
 
     print(log)
 
