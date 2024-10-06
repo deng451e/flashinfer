@@ -38,11 +38,14 @@ def main(args,log):
                 x_ = x.to(device)
                 y_ = y.to(device)
                 transfer_times.appnd(time.time()-st)
+            else:
+                x_ = x.to(device)
+                y_ = y.to(device)
             st = time.time()
             _ = x_@y_
             compute_times.append(time.time()-st)
         if device=='cpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec \n"
-        if device=='cpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time{np.mean(transfer_times)} sec \n"
+        if device=='gpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time{np.mean(transfer_times)} sec \n"
 
     print(log)
 
