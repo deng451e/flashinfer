@@ -7,7 +7,7 @@ do
         
             CMD="test-dtype-efficiency.py --device $device --dtype $dtype"
             output=$(python   $CMD   2>&1 )  
-            echo "$output" | tee -a mix-efficienct-single.log
+            echo "$output" | tee -a dtype-efficienct.log
            
   done
 done
