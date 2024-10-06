@@ -1,5 +1,5 @@
 rm dtype-efficienct.log
-for device in "cpu"  "gpu"  
+for device in   "gpu"    "cpu" 
 do 
   for dtype in "fp16" "fp32"
   do

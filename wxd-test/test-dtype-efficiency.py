@@ -45,7 +45,7 @@ def main(args,log):
             _ = x_@y_
             compute_times.append(time.time()-st)
         if device=='cpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec \n"
-        if device=='gpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time{np.mean(transfer_times)} sec \n"
+        if device=='cudas': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time{np.mean(transfer_times)} sec \n"
 
     print(log)
 
