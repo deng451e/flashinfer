@@ -12,7 +12,7 @@ def main(args,log):
     # warmup
     log += "==================================\n"
     log += f"device:{device}, dtype:{type_}\n"
-    print(log)
+    
     for power in range(1,16):
         dim = 2**power
         x = torch.randn(dim,dim,dtype=type_) 
@@ -22,7 +22,7 @@ def main(args,log):
             y = y.to(device)
 
         _ = x@y
-        print(dim)  
+        
     for power in range(1,16):
         dim = 2**power  
         compute_times = []
