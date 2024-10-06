@@ -38,7 +38,7 @@ def main(args,log):
                 x_ = x.to(device)
                 y_ = y.to(device)
                 transfer_times.append(time.time()-st)
-                print(transfer_times)
+                
             else:
                 x_ = x.to(device)
                 y_ = y.to(device)
