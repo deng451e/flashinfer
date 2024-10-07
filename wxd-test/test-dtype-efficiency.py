@@ -2,59 +2,56 @@ import torch
 import time 
 import argparse
 import numpy as np 
-
+from utils import * 
 def main(args,log):
-    if args.dtype == 'fp16': type_ = torch.float16
-    if args.dtype == 'fp32': type_ = torch.float32
-    if args.device == 'cpu': device = 'cpu'
-    if args.device == 'gpu': device = 'cuda'
+   
+     
     
-    # warmup
-    log += "==================================\n"
-    log += f"device:{device}, dtype:{type_}\n"
     
-    for power in range(1,16):
+    for power in range(1,13):
         dim = 2**power
-        x = torch.randn(dim,dim,dtype=type_) 
-        y = torch.randn(dim,dim,dtype=type_) 
-        if device=='gpu':
-            x = x.to(device)
-            y = y.to(device)
-
+        x = torch.randn(dim,dim,dtype= torch.float16) 
+        y = torch.randn(dim,dim,dtype= torch.float16) 
+        x = x.to('cuda')
+        y = y.to('cuda')
         _ = x@y
-        
-    for power in range(1,16):
-        dim = 2**power  
-        compute_times = []
-        transfer_times = []
-        x = torch.randn(dim,dim,dtype=type_) 
-        y = torch.randn(dim,dim,dtype=type_) 
-        for _ in range(args.repeat):
-            
-            
-            
-            if device=='cuda':
-                st = time.time()
-                x_ = x.to(device)
-                y_ = y.to(device)
-                transfer_times.append(time.time()-st)
+
+    for dtype in ['fp16','fp32']:
+        if dtype == 'fp16': type_ = torch.float16
+        if dtype == 'fp32': type_ = torch.float32
+        for power in range(1,13):
+            dim = 2**power  
+            cpu_compute_times = []
+            gpu_compute_times = []
+            transfer_times = []
+            x = torch.randn(dim,dim,dtype=type_) 
+            y = torch.randn(dim,dim,dtype=type_) 
+            for _ in range(args.repeat):
                 
-            else:
-                x_ = x.to(device)
-                y_ = y.to(device)
-            st = time.time()
-            _ = x_@y_
-            compute_times.append(time.time()-st)
-        if device=='cpu': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec \n"
-        if device=='cuda': log += f"dim:{dim}, compute time:{np.mean(compute_times)} sec, transfer time:{np.mean(transfer_times)} sec \n"
+                st = time.time()
+                cpu_ref = x@y
+                cpu_compute_times.append(time.time()-st)
+                cpu_ref = cpu_ref.detach()
+                #########################
+                st = time.time()
+                x_ = x.to('cuda')
+                y_ = y.to('cuda')
+                transfer_times.append(time.time()-st)
+                #########################
+            
+                st = time.time()
+                gpu_ref = x_@y_
+                gpu_compute_times.append(time.time()-st)
+                gpu_ref = gpu_ref.detach().cpu()
+             
+                assert check_eq(gpu_ref,cpu_ref)>0.9, 'results not equal...'
+            log += f"dim:{dim}, cpu compute time:{np.mean(cpu_compute_times)}, gpu compute time:{np.mean(gpu_compute_times)}, transfer time:{np.mean(transfer_times)}\n"
 
     print(log)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dtype", type=str, default="fp16") 
-    parser.add_argument("--device", type=str, default="cpu") 
     parser.add_argument("--repeat", type=int, default=5)
     args = parser.parse_args()
     
