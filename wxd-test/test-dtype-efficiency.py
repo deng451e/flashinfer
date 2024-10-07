@@ -45,7 +45,7 @@ def main(args,log):
                 gpu_ref = gpu_ref.detach().cpu()
              
                 assert check_eq(gpu_ref,cpu_ref)>0.9, 'results not equal...'
-            log += f"dim:{dim}, cpu compute time:{np.mean(cpu_compute_times)}, gpu compute time:{np.mean(gpu_compute_times)}, transfer time:{np.mean(transfer_times)}\n"
+            log += f"dim:{dim}, dtype:{dtype}, cpu compute time:{np.mean(cpu_compute_times)}, gpu compute time:{np.mean(gpu_compute_times)}, transfer time:{np.mean(transfer_times)}\n"
 
     print(log)
 
